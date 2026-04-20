@@ -1,0 +1,4 @@
+src/__pycache__/*
+src/Datasets/__pycache__/*
+src/Policies/__pycache__/*
+src/logs/policy/VanDerPol/adaptive/seed_0/2025-10-21_23-01-54/vpd_cl_trajectory.pdf
